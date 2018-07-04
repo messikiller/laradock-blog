@@ -362,3 +362,7 @@ SOLR_DATAIMPORTHANDLER_MYSQL=false
 
 ### NETDATA ###############################################
 NETDATA_PORT=19999
+
+### CERTBOT ###############################################
+CERTBOT_CN=app.domain.com
+CERTBOT_EMAIL=mail@domain.com
